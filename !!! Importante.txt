@@ -1,0 +1,5 @@
+Para hacer la el experimento se necesita tener instalado
+
+-python 3.10
+-pandas  -> pip install pandas
+-scikit-learn -> pip install scikit-learn
